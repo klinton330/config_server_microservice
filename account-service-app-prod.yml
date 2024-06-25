@@ -3,7 +3,7 @@ build:
 accounts:
   message: "welcome to Java accounts related API"
   contactDetails:
-    name: "klinton Production-Developer"
+    name: "klinton Prd"
     email: "klintonece@gmail.com"
   oncallsupport: 
     - +817550127385
