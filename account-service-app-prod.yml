@@ -4,9 +4,9 @@ accounts:
   message: "welcome to Java accounts related API"
   contactDetails:
     name: "klinton Prodd"
-    email: "klintonece@gmail.com"
+    email: "klintonpdod@gmail.com"
   oncallsupport: 
-    - +817550127385
+    - +81755012738523
 eureka:
   client:
     fetch-registry: true
