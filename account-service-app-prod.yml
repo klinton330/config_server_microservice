@@ -6,7 +6,7 @@ accounts:
     name: "klinton Prodd"
     email: "klintonpdod@gmail.com"
   oncallsupport: 
-    - +81755012738523
+    - +819841802632
 eureka:
   client:
     fetch-registry: true
